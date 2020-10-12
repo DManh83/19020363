@@ -57,6 +57,7 @@ public class DictionaryManagement extends Dictionary{
     public void dictionnaryLookup() {
         Scanner sc = new Scanner(System.in);
         String commandline = sc.nextLine();
+        system.out.println("enter command line (search):");
         if(commandline.equals("search")) {
             String search = sc.nextLine();
             try{
