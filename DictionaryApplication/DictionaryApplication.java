@@ -12,7 +12,7 @@ public class DictionaryApplication extends Application {
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("DictionaryApplication.fxml"));
         stage.setTitle("Dictionary");
-        stage.setScene(new Scene(root, 600, 400));
+        stage.setScene(new Scene(root, 600, 490));
         stage.show();
     }
     public static void main(String[] args) {

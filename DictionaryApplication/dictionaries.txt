@@ -1,0 +1,12 @@
+add		thêm
+down		xuống
+house		nhà
+call		gọi
+help		giúp
+apple		quả táo
+cat		mèo
+fish		cá
+pen		bút mực
+up		lên
+hello		xin chào
+dog		chó
